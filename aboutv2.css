@@ -1,0 +1,7 @@
+.left { float: left; }
+.right { float: right; }
+.myname { background:#f5fff5; }
+.clear { clear: both; }
+.pub .title {font-size: 115%; } 
+.pub ul li { list-style-type: none; margin-left: -40px; font-size: 100%; }
+.pub ul li strong {background:#FFf0f0;}
